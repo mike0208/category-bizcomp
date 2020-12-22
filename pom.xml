@@ -64,12 +64,11 @@
 			<artifactId>httpclient</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>com.pccw</groupId>
-			<artifactId>spring-msg-broker-client-lib</artifactId>
-			<version>${spring-msg-broker-client-lib.version}</version>
-		</dependency>
-
+		  <dependency>
+            <groupId>com.pccw</groupId>
+            <artifactId>spring-msg-broker-client-lib</artifactId>
+            <version>${spring-msg-broker-client-lib.version}</version>
+        </dependency>
 	</dependencies>
 
 	<build>

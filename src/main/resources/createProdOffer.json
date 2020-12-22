@@ -1,0 +1,176 @@
+{
+  "description": "string",
+  "isBundle": true,
+  "isSellable": true,
+  "lastUpdate": "2020-12-15T12:44:36.682Z",
+  "lifecycleStatus": "string",
+  "name": "string",
+  "statusReason": "string",
+  "version": "string",
+  "attachment": [
+    {
+      "id": "string",
+      "href": "string",
+      "attachmentType": "string",
+      "content": "string",
+      "description": "string",
+      "mimeType": "string",
+      "name": "string",
+      "url": "string",
+      "size": {
+        "amount": 0,
+        "units": "string"
+      },
+      "validFor": {
+        "endDateTime": "2020-12-15T12:44:36.682Z",
+        "startDateTime": "2020-12-15T12:44:36.682Z"
+      },
+      "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+      "@referredType": "string"
+    }
+  ],
+  "category": [
+    {
+      "id": "string",
+      "href": "string",
+      "name": "string",
+      "version": "string",
+      "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+      "@referredType": "string"
+    }
+  ],
+  "channel": [
+    {
+      "id": "string",
+      "href": "string",
+      "name": "string",
+      "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+      "@referredType": "string"
+    }
+  ],
+  "marketSegment": [
+    {
+      "id": "string",
+      "href": "string",
+      "name": "string",
+      "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+      "@referredType": "string"
+    }
+  ],
+  "prodSpecCharValueUse": [
+    {
+      "description": "string",
+      "maxCardinality": 0,
+      "minCardinality": 0,
+      "name": "string",
+      "valueType": "string",
+      "productSpecCharacteristicValue": [
+        {
+          "isDefault": true,
+          "rangeInterval": "string",
+          "regex": "string",
+          "unitOfMeasure": "string",
+          "valueFrom": "string",
+          "valueTo": "string",
+          "valueType": "string",
+          "validFor": {
+            "endDateTime": "2020-12-15T12:44:36.682Z",
+            "startDateTime": "2020-12-15T12:44:36.682Z"
+          },
+          "@baseType": "string",
+          "@schemaLocation": "string",
+          "@type": "string"
+        }
+      ],
+      "productSpecification": {
+        "id": "string",
+        "href": "string",
+        "name": "string",
+        "version": "string",
+        "targetProductSchema": {
+          "@baseType": "string",
+          "@schemaLocation": "string",
+          "@type": "string"
+        },
+        "@baseType": "string",
+        "@schemaLocation": "string",
+        "@type": "string",
+        "@referredType": "string"
+      },
+      "validFor": {
+        "endDateTime": "2020-12-15T12:44:36.682Z",
+        "startDateTime": "2020-12-15T12:44:36.682Z"
+      },
+      "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string"
+    }
+  ],
+  "productOfferingPrice": [
+    {
+      "id": "string",
+      "href": "string",
+      "name": "string",
+      "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+      "@referredType": "string"
+    }
+  ],
+  "productSpecification": {
+    "id": "string",
+    "href": "string",
+    "name": "string",
+    "version": "string",
+    "targetProductSchema": {
+      "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string"
+    },
+    "@baseType": "string",
+    "@schemaLocation": "string",
+    "@type": "string",
+    "@referredType": "string"
+  },
+  "resourceCandidate":{
+    "href": "string",
+    "name": "string",
+    "version": "string",
+    "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+       "@referredType":"string"
+  },
+  "serviceCandidate":{
+    "href": "string",
+    "name": "string",
+    "version": "string",
+    "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+       "@referredType":"string"
+  },
+  "serviceLevelAgreement":{
+    "href": "string",
+    "name": "string",
+    "@baseType": "string",
+      "@schemaLocation": "string",
+      "@type": "string",
+       "@referredType":"string"
+  },
+  "validFor": {
+    "endDateTime": "2020-12-15T12:44:36.682Z",
+    "startDateTime": "2020-12-15T12:44:36.682Z"
+  },
+  "@baseType": "string",
+  "@schemaLocation": "string",
+  "@type": "string"
+}
